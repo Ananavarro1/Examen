@@ -15,8 +15,11 @@ for inteligente in range(1,Num+1):
 print(list)
 
 if len(list) > 2:
-  print("el ",Num,"si es inteligente")
+
+  print("el ",Num,"es inteligente")
+
 elif len(list) <= 2:
+    
     print("el ",Num,"no es inteligente")
 
 
